@@ -16,3 +16,5 @@ Steps to setup:
 10. now hit post api of movies list with (contentId(get from db from movie collection), type:(movie or tvshow))
 11. 10th point will save data for logged in user , now hit get API , it will fetch user detail with watch detail
 12. to delete or unlist particular movie , hit delete api and pass contentId in params
+
+Note: update.env as per your need
