@@ -1,6 +1,7 @@
 import dotenv from 'dotenv';
 import commandLineArgs from 'command-line-args';
 import os from 'os';
+console.log('just test');
 
 // Setup command line options
 const options = commandLineArgs([
